@@ -1,0 +1,55 @@
+baseURL = 'https://photo-75b3ef.gitlab.io/'
+
+copyright = "© 2025 Jonathan Kaplan"
+defaultContentLanguage = "en"
+disableKinds = ["taxonomy"]
+enableRobotsTXT = true
+languageCode = "en"
+timeZone = "Europe/Paris"
+timeout = "120s"
+title = "Jonathan Kaplan Photographer"
+
+[params]
+  defaultTheme = "dark"
+  description = "Jonathan Kaplan's Online Gallery"
+  title = "My Gallery"
+  [params.author]
+    email = "gitlab@jonathan-kaplan.eu"
+    name = "Jonathan Kaplan"
+  [params.socialIcons]
+    email = "mailto:photo@jonathan-kaplan.eu"
+    #website = "https://example.com"
+  [params.gallery]
+    #boxSpacing = 10
+    #targetRowHeight = 288
+    #targetRowHeightTolerance = 0.25
+
+[outputs]
+  home = ["HTML", "RSS"]
+  page = ["HTML"]
+  section = ["HTML"]
+
+[imaging]
+  quality = 75
+  resampleFilter = "CatmullRom"
+  [imaging.exif]
+    disableDate = false
+    disableLatLong = true
+    includeFields = "ImageDescription|Orientation"
+
+[module]
+  [module.hugoVersion]
+    min = "0.121.2"
+  [[module.imports]]
+    path = "gallery"
+
+[menu]
+  [[menu.footer]]
+    name = "Privacy"
+    pageRef = "/privacy"
+#   url = "https://github.com/nicokaiser/hugo-theme-gallery/"
+    weight = 3
+
+[services]
+  [services.rss]
+    limit = 100
