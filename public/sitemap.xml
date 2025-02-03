@@ -1,23 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>https://jonathan-kaplan.eu/social-textures/</loc>
-  </url><url>
-    <loc>https://jonathan-kaplan.eu/portraits/</loc>
-  </url><url>
-    <loc>https://jonathan-kaplan.eu/about/</loc>
-  </url><url>
-    <loc>https://jonathan-kaplan.eu/categories/conscious/</loc>
-  </url><url>
-    <loc>https://jonathan-kaplan.eu/copyright/</loc>
-  </url><url>
-    <loc>https://jonathan-kaplan.eu/categories/environments/</loc>
-  </url><url>
-    <loc>https://jonathan-kaplan.eu/imprint/</loc>
-  </url><url>
-    <loc>https://jonathan-kaplan.eu/</loc>
-  </url><url>
-    <loc>https://jonathan-kaplan.eu/privacy/</loc>
-  </url>
-</urlset>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <sitemap>
+    <loc>https://jonathan-kaplan.eu/en/sitemap.xml</loc>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://jonathan-kaplan.eu/fr/sitemap.xml</loc>
+    
+  </sitemap>
+  
+</sitemapindex>

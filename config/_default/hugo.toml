@@ -7,7 +7,6 @@ enableRobotsTXT = true
 languageCode = "en"
 timeZone = "Europe/Paris"
 timeout = "120s"
-title = "Jonathan Kaplan Photographer"
 
 [params]
   defaultTheme = "dark"
@@ -45,11 +44,26 @@ title = "Jonathan Kaplan Photographer"
 
 [menu]
   [[menu.footer]]
-#   name = "Privacy"
-#   pageRef = "/privacy"
+#   name = "Github"
 #   url = "https://github.com/nicokaiser/hugo-theme-gallery/"
 #   weight = 3
 
 [services]
   [services.rss]
     limit = 100
+    
+[languages]
+  [languages.en]
+    languageCode = 'en'
+    languageName = 'English'
+    title = 'Jonathan Kaplan Photographer'
+    weight = 1
+      [languages.en.params]
+        description = "Film photography (analog) is the main medium Jonathan uses. This website showcases work primarily in black & white. Please read **[about](about)** the reproductions of photographs shown on this website and the **[copyright notice](copyright)**"
+  [languages.fr]
+    languageCode = 'fr'
+    languageName = 'Français'
+    title = 'Jonathan Kaplan Photographe'
+    weight = 2
+      [languages.fr.params]
+        description = "La photographie argentique (analogique) est le principal médium utilisé par Jonathan. Ce site web présente principalement des œuvres en noir et blanc. Veuillez lire **[à propos](about)** des reproductions des photographies présentées sur ce site ainsi que la **[notice de droit d'auteur](copyright)**."

@@ -12,4 +12,3 @@ menus:
     weight: -1
 # sub-galleries on list pages are sorted by date and weight (descending)
 ---
-La photographie argentique (analogique) est le principal médium utilisé par Jonathan. Ce site web présente principalement des œuvres en noir et blanc. Veuillez lire les informations concernant les reproductions des photographies présentées sur ce site ainsi que l'avis de droit d'auteur.

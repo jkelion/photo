@@ -1,5 +1,5 @@
 ---
-description: Portraits of people knowingly being photographed
+description: Portraits of people photographed knowingly
 menus: "main"
 title: Portraits
 weight: 2

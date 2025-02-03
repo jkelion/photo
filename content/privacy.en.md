@@ -6,7 +6,6 @@ menu:
   footer:
     weight: 2
 ---
-
 This website, in its entirety, is regulated under French law and international treaties and conventions on copyright and intellectual property. All reproduction rights for works and texts, including downloadable documents and iconographic and photographic representations, are held by their respective authors and require the author's authorisation when reproduction is sought.
 
 Jonathan Kaplan cannot be held responsible under any circumstances for whatever damage of whichever kind, may it be direct or indirect, resulting from the use of the jonathan-kaplan.eu website.
