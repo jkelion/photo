@@ -1,4 +1,4 @@
-baseURL = 'https://photo-75b3ef.gitlab.io/'
+baseURL = 'https://jonathan-kaplan.eu/'
 
 copyright = "© 2025 Jonathan Kaplan"
 defaultContentLanguage = "en"
@@ -14,7 +14,7 @@ title = "Jonathan Kaplan Photographer"
   description = "Jonathan Kaplan's Online Gallery"
   title = "My Gallery"
   [params.author]
-    email = "gitlab@jonathan-kaplan.eu"
+    email = "github@jonathan-kaplan.eu"
     name = "Jonathan Kaplan"
   [params.socialIcons]
     email = "mailto:photo@jonathan-kaplan.eu"
@@ -45,10 +45,10 @@ title = "Jonathan Kaplan Photographer"
 
 [menu]
   [[menu.footer]]
-    name = "Privacy"
-    pageRef = "/privacy"
+#   name = "Privacy"
+#   pageRef = "/privacy"
 #   url = "https://github.com/nicokaiser/hugo-theme-gallery/"
-    weight = 3
+#   weight = 3
 
 [services]
   [services.rss]

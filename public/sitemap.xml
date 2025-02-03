@@ -2,20 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/social-textures/</loc>
+    <loc>https://jonathan-kaplan.eu/social-textures/</loc>
   </url><url>
-    <loc>http://localhost:1313/portraits/</loc>
+    <loc>https://jonathan-kaplan.eu/portraits/</loc>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://jonathan-kaplan.eu/about/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/conscious/</loc>
+    <loc>https://jonathan-kaplan.eu/categories/conscious/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/environments/</loc>
+    <loc>https://jonathan-kaplan.eu/copyright/</loc>
   </url><url>
-    <loc>http://localhost:1313/imprint/</loc>
+    <loc>https://jonathan-kaplan.eu/categories/environments/</loc>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://jonathan-kaplan.eu/imprint/</loc>
   </url><url>
-    <loc>http://localhost:1313/privacy/</loc>
+    <loc>https://jonathan-kaplan.eu/</loc>
+  </url><url>
+    <loc>https://jonathan-kaplan.eu/privacy/</loc>
   </url>
 </urlset>

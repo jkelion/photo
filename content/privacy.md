@@ -2,6 +2,9 @@
 layout: page
 rss_ignore: true
 title: Privacy Policy
+menu:
+  footer:
+    weight: 2
 ---
 
 This website, in its entirety, is regulated under French law and international treaties and conventions on copyright and intellectual property. All reproduction rights for works and texts, including downloadable documents and iconographic and photographic representations, are held by their respective authors and require the author's authorisation when reproduction is sought.
@@ -10,7 +13,7 @@ Jonathan Kaplan cannot be held responsible under any circumstances for whatever 
 
 **Cookies**
 
-When you visit this website, small files called cookies might be placed on your computer or mobile device. These cookies are not strictly necessary for the main functions of the website to work. You can delete or safely block these cookies at any time.
+When you visit this website, small files called cookies are **not** placed on your computer or mobile device.
 
 **Embedded content from other websites**
 
