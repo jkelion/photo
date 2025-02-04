@@ -1,0 +1,14 @@
+<style>
+  hgroup a:hover {
+    text-decoration-line: underline;
+  }
+</style>
+
+{{ if .Title }}
+  <hgroup>
+    <h1>{{ .Title }}</h1>
+    {{ with .Params.Description }}
+      <p>{{ . | markdownify }}</p>
+    {{ end }}
+  </hgroup>
+{{ end }}

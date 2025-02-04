@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Galerie en ligne on Jonathan Kaplan Photographe</title>
-    <link>https://jonathan-kaplan.eu/fr/</link>
+    <link>http://localhost:1313/fr/</link>
     <description>Recent content in Galerie en ligne on Jonathan Kaplan Photographe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <managingEditor>github@jonathan-kaplan.eu (Jonathan Kaplan)</managingEditor>
     <webMaster>github@jonathan-kaplan.eu (Jonathan Kaplan)</webMaster>
-    <copyright>© 2025 Jonathan Kaplan</copyright><atom:link href="https://jonathan-kaplan.eu/fr/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2025 Jonathan Kaplan</copyright><atom:link href="http://localhost:1313/fr/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Textures Sociales</title>
-      <link>https://jonathan-kaplan.eu/fr/social-textures/</link>
+      <link>http://localhost:1313/fr/social-textures/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>github@jonathan-kaplan.eu (Jonathan Kaplan)</author>
-      <guid>https://jonathan-kaplan.eu/fr/social-textures/</guid><media:content url="https://jonathan-kaplan.eu/social-textures/XE2S4056_hu_d20bfe94926409eb.jpg" type="image/jpeg"/>
+      <guid>http://localhost:1313/fr/social-textures/</guid><media:content url="http://localhost:1313/social-textures/XE2S4056_hu_d20bfe94926409eb.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;https://jonathan-kaplan.eu/social-textures/XE2S4056_hu_d20bfe94926409eb.jpg&quot; /&gt;
+          &lt;img src=&quot;http://localhost:1313/social-textures/XE2S4056_hu_d20bfe94926409eb.jpg&quot; /&gt;
           &lt;p&gt;Les gens dans leur environnement&lt;/p&gt;
         </description></item>
     <item>
       <title>Portraits</title>
-      <link>https://jonathan-kaplan.eu/fr/portraits/</link>
+      <link>http://localhost:1313/fr/portraits/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>github@jonathan-kaplan.eu (Jonathan Kaplan)</author>
-      <guid>https://jonathan-kaplan.eu/fr/portraits/</guid><media:content url="https://jonathan-kaplan.eu/portraits/XE2S4066_hu_cbe7e9c6e1edd06e.jpg" type="image/jpeg"/>
+      <guid>http://localhost:1313/fr/portraits/</guid><media:content url="http://localhost:1313/portraits/XE2S4066_hu_cbe7e9c6e1edd06e.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;https://jonathan-kaplan.eu/portraits/XE2S4066_hu_cbe7e9c6e1edd06e.jpg&quot; /&gt;
+          &lt;img src=&quot;http://localhost:1313/portraits/XE2S4066_hu_cbe7e9c6e1edd06e.jpg&quot; /&gt;
           &lt;p&gt;Portraits de personnes photographiées en connaissance de cause&lt;/p&gt;
         </description></item>
   </channel>
