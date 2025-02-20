@@ -36,8 +36,8 @@
             </div>
         {{ end }}
         <div>
-            <button id="save-consent" class="btn save-consent" data-consentvalue="{{ range $index, $item := .Site.Data.consent.items }}{{ if $item.is_functional}}{{ else }}0{{ end }}{{ end }}">Save preferences</button>
-            <button class="btn approve-consent">Allow all</button>
+            <button id="save-consent" class="btn save-consent" data-consentvalue="{{ range $index, $item := .Site.Data.consent.items }}{{ if $item.is_functional}}{{ else }}0{{ end }}{{ end }}">{{ T "saveConsent" }}</button>
+            <button class="btn approve-consent">{{ T "allowAllConsent" }}</button>
         </div>
     </div>
 </div>

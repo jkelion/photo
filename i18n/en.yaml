@@ -12,3 +12,7 @@ textConsent2:
   other: "third party code"
 textConsent3:
   other: "to improve the functionality of this website."
+saveConsent:
+  other: "Save preferences"
+allowAllConsent:
+  other: "Allow all"
