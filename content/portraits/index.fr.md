@@ -3,7 +3,6 @@ description: Portraits de personnes photographiées en connaissance de cause
 menus: "main"
 title: Portraits
 weight: 2
-categories: ["conscient"]
 params:
   private: false
   theme: dark

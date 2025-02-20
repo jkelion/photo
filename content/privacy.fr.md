@@ -4,7 +4,7 @@ rss_ignore: true
 title: Confidentialité
 menu:
   footer:
-    weight: 2
+    weight: 1
 ---
 L’ensemble de ce site Web relève des législations française et internationale sur le droit d’auteur et la propriété intellectuelle. Tous les droits de reproduction des œuvres et textes, y compris les documents téléchargeables et les représentations iconographiques et photographiques, sont réservés et requièrent l’autorisation explicite des auteurs respectifs lorsque une reproduction est souhaitée, sauf pour le cas où la reproduction et la représentation sont à titre de copie privée ou à des fins d’enseignement et de recherche et en dehors de toute utilisation lucrative. Ceci, sous réserve que soient indiqués clairement le nom de l’auteur et la source.
 
@@ -12,7 +12,7 @@ En aucun cas, Jonathan Kaplan et ses collaborateurs ne peuvent être tenus pour 
 
 **Cookies**
 
-Lorsque vous consultez ce site Web, de petits fichiers, appelés «cookies» ou témoins de connexion, **ne sont pas** enregistrés sur votre ordinateur ou appareil mobile.
+Lorsque vous consultez ce site Web, de petits fichiers, appelés «&nbsp;cookies&nbsp;» ou témoins de connexion, **ne sont pas** enregistrés sur votre ordinateur ou appareil mobile, sauf si vous consentez à utiliser des cookies afin d'activer la boîte de discussion Crisp.
 
 **Contenu intégré provenant d'autres sites Web**
 

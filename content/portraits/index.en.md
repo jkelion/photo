@@ -3,7 +3,6 @@ description: Portraits of people photographed knowingly
 menus: "main"
 title: Portraits
 weight: 2
-categories: ["aware"]
 params:
   private: false
   theme: dark

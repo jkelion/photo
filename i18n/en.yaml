@@ -1,0 +1,14 @@
+manageConsent:
+  other: "Manage Cookies"
+chooseConsent:
+  other: "Manage preferences"
+denyConsent:
+  other: "Deny"
+allowConsent:
+  other: "Allow"
+textConsent1:
+  other: "We would like to use"
+textConsent2:
+  other: "third party code"
+textConsent3:
+  other: "to improve the functionality of this website."

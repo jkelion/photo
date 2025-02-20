@@ -4,7 +4,7 @@ rss_ignore: true
 layout: page
 menu:
   footer:
-    weight: 1
+    weight: 2
 ---
 **Avis de droit d'auteur**
 
