@@ -38,8 +38,6 @@
                 href="http://localhost:1313/about/"
                 />
   </url><url>
-    <loc>http://localhost:1313/categories/aware/</loc>
-  </url><url>
     <loc>http://localhost:1313/copyright/</loc>
     <xhtml:link
                 rel="alternate"
@@ -51,8 +49,6 @@
                 hreflang="en"
                 href="http://localhost:1313/copyright/"
                 />
-  </url><url>
-    <loc>http://localhost:1313/categories/environments/</loc>
   </url><url>
     <loc>http://localhost:1313/imprint/</loc>
     <xhtml:link

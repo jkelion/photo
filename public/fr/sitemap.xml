@@ -62,8 +62,6 @@
                 href="http://localhost:1313/fr/privacy/"
                 />
   </url><url>
-    <loc>http://localhost:1313/fr/categories/conscient/</loc>
-  </url><url>
     <loc>http://localhost:1313/fr/imprint/</loc>
     <xhtml:link
                 rel="alternate"
@@ -75,8 +73,6 @@
                 hreflang="fr"
                 href="http://localhost:1313/fr/imprint/"
                 />
-  </url><url>
-    <loc>http://localhost:1313/fr/categories/environnements/</loc>
   </url><url>
     <loc>http://localhost:1313/fr/</loc>
     <xhtml:link
