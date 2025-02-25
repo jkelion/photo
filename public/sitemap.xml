@@ -2,12 +2,16 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <sitemap>
-    <loc>http://localhost:1313/en/sitemap.xml</loc>
+    <loc>https://jonathan-kaplan.eu/en/sitemap.xml</loc>
+    
+      <lastmod>2020-11-27T17:30:49+01:00</lastmod>
     
   </sitemap>
   
   <sitemap>
-    <loc>http://localhost:1313/fr/sitemap.xml</loc>
+    <loc>https://jonathan-kaplan.eu/fr/sitemap.xml</loc>
+    
+      <lastmod>2020-11-27T17:30:49+01:00</lastmod>
     
   </sitemap>
   

@@ -3,8 +3,8 @@
   <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Imprint - Jonathan Kaplan Photographer</title>
-  <link rel="canonical" href="https://jonathan-kaplan.eu/imprint/" />
+  <title>Contact Form - Jonathan Kaplan Photographer</title>
+  <link rel="canonical" href="https://jonathan-kaplan.eu/contact/" />
   <link rel="icon" type="image/svg+xml" href="/images/favicon.svg" />
   <link rel="icon" type="image/png" href="/images/favicon.png" />
   <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png" />
@@ -13,17 +13,32 @@
   
     <meta name="robots" content="index, follow" />
   
-  <meta property="og:title" content="Imprint" />
-<meta property="og:description" content="The website address is: https://jonathan-kaplan.eu
-Publication manager: Jonathan Kaplan
-Address: 4 rue Maurice Denis F-75012 Paris, France
-jonathan-kaplan.eu website is hosted by Github." />
+  <meta property="og:title" content="Contact Form" />
+<meta property="og:description" content="
+
+  To: Jonathan
+  
+    From
+    
+  
+  
+    Reply
+    
+  
+  
+    Message
+    
+  
+  
+
+
+" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://jonathan-kaplan.eu/imprint/" />
+<meta property="og:url" content="https://jonathan-kaplan.eu/contact/" />
 
 <meta property="article:section" content="" />
-  
-  <meta property="og:site_name" content="My Gallery" />
+  <meta property="article:published_time" content="2020-11-27T17:30:49+01:00" />
+  <meta property="article:modified_time" content="2020-11-27T17:30:49+01:00" /><meta property="og:site_name" content="My Gallery" />
 
   
   <link rel="stylesheet" href="/css/main.min.f575241120bd00da4099708d1a96fc177cb7ac591678f9635ce60a58fbe03223.css" />
@@ -114,18 +129,61 @@ jonathan-kaplan.eu website is hosted by Github." />
 
 
   <hgroup>
-    <h1>Imprint</h1>
+    <h1>Contact Form</h1>
     
   </hgroup>
 
 
-  <section class="prose">
-    <p>The website address is: <a href="https://jonathan-kaplan.eu">https://jonathan-kaplan.eu</a><br>
-Publication manager: Jonathan Kaplan<br>
-Address: 4 rue Maurice Denis F-75012 Paris, France<br>
-jonathan-kaplan.eu website is hosted by <a href="https://github.com/">Github</a>.</p>
+  <section class="gallery">
+  <div id="gallery" style="visibility: hidden; height: 1px; overflow: hidden">
+    
+    
+    
+  </div>
+</section>
 
-  </section>
+  
+
+
+  
+    <section class="prose">
+      <script src="/js/contact.js" defer></script>
+<form id="form">
+  <h1>To: Jonathan</h1>
+  <div class="field">
+    <label for="visitor_name">From</label>
+    <input
+      type="text"
+      name="visitor_name"
+      id="visitor_name"
+      placeholder="Your Name"
+    />
+  </div>
+  <div class="field">
+    <label for="visitor_email">Reply</label>
+    <input
+      type="text"
+      name="visitor_email"
+      id="visitor_email"
+      placeholder="Your e-mail address"
+    />
+  </div>
+  <div class="field">
+    <label for="message">Message</label>
+    <textarea name="message" id="message" placeholder="Your Message"></textarea>
+  </div>
+  <input type="submit" id="button" value="Send Email" />
+</form>
+<script
+  type="text/javascript"
+  src="https://cdn.jsdelivr.net/npm/@emailjs/browser@4/dist/email.min.js"
+></script>
+<script type="text/javascript">
+  emailjs.init("hcwh1BzimepUo_Ba4")
+</script>
+
+    </section>
+  
 
     </main>
     <footer>

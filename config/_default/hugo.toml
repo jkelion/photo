@@ -8,6 +8,9 @@ languageCode = "en"
 timeZone = "Europe/Paris"
 timeout = "120s"
 
+[markup.goldmark.renderer]
+  unsafe = true
+
 [params]
   defaultTheme = "dark"
   description = "Jonathan Kaplan's Online Gallery"
@@ -16,7 +19,7 @@ timeout = "120s"
     email = "github@jonathan-kaplan.eu"
     name = "Jonathan Kaplan"
   [params.socialIcons]
-    email = "mailto:photo@jonathan-kaplan.eu"
+    email = "/contact"
     #website = "https://example.com"
   [params.gallery]
     #boxSpacing = 10

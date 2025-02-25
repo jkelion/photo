@@ -2,88 +2,102 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/social-textures/</loc>
+    <loc>https://jonathan-kaplan.eu/social-textures/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/social-textures/"
+                href="https://jonathan-kaplan.eu/fr/social-textures/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/social-textures/"
+                href="https://jonathan-kaplan.eu/social-textures/"
                 />
   </url><url>
-    <loc>http://localhost:1313/portraits/</loc>
+    <loc>https://jonathan-kaplan.eu/portraits/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/portraits/"
+                href="https://jonathan-kaplan.eu/fr/portraits/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/portraits/"
+                href="https://jonathan-kaplan.eu/portraits/"
                 />
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://jonathan-kaplan.eu/contact/</loc>
+    <lastmod>2020-11-27T17:30:49+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/about/"
+                href="https://jonathan-kaplan.eu/fr/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/about/"
+                href="https://jonathan-kaplan.eu/contact/"
                 />
   </url><url>
-    <loc>http://localhost:1313/copyright/</loc>
+    <loc>https://jonathan-kaplan.eu/</loc>
+    <lastmod>2020-11-27T17:30:49+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/copyright/"
+                href="https://jonathan-kaplan.eu/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/copyright/"
+                href="https://jonathan-kaplan.eu/"
                 />
   </url><url>
-    <loc>http://localhost:1313/imprint/</loc>
+    <loc>https://jonathan-kaplan.eu/about/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/imprint/"
+                href="https://jonathan-kaplan.eu/fr/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/imprint/"
+                href="https://jonathan-kaplan.eu/about/"
                 />
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://jonathan-kaplan.eu/copyright/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/"
+                href="https://jonathan-kaplan.eu/fr/copyright/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/"
+                href="https://jonathan-kaplan.eu/copyright/"
                 />
   </url><url>
-    <loc>http://localhost:1313/privacy/</loc>
+    <loc>https://jonathan-kaplan.eu/imprint/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/privacy/"
+                href="https://jonathan-kaplan.eu/fr/imprint/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/privacy/"
+                href="https://jonathan-kaplan.eu/imprint/"
+                />
+  </url><url>
+    <loc>https://jonathan-kaplan.eu/privacy/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://jonathan-kaplan.eu/fr/privacy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jonathan-kaplan.eu/privacy/"
                 />
   </url>
 </urlset>
