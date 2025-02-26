@@ -24,4 +24,4 @@ These websites may collect data about you, use cookies, embed additional third-p
 
 Measures have been taken to protect your users’ data. They include encryption of all data exchanged between this website and your devices.
 
-If you have any privacy-specific concerns, you can contact the publication manager of this website using the website contact e-mail.
+If you have any privacy-specific concerns, you can contact the publication manager of this website using the website contact form, accessible by clicking the envelope icon.

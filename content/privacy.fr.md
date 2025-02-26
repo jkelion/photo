@@ -22,4 +22,4 @@ Les articles de ce site peuvent inclure du contenu intégré (par exemple des vi
 
 Des mesures ont été prises pour protéger les données des utilisateurs. Elles incluent le cryptage de toutes les données échangées entre ce site Web et vos appareils.
 
-Si vous avez des préoccupations spécifiques en matière de confidentialité, vous pouvez contacter le responsable de publication de ce site Web en utilisant l'e-mail de contact.
+Si vous avez des préoccupations spécifiques en matière de confidentialité, vous pouvez contacter le responsable de publication de ce site Web en utilisant le formulaire de contact, accessible en cliquant sur l'icône enveloppe.
