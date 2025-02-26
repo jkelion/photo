@@ -63,6 +63,8 @@ timeout = "120s"
     weight = 1
       [languages.en.params]
         description = "Film photography (analog) is the main medium Jonathan uses. This website showcases work primarily in black & white. Please read **[about](about)** the reproductions of photographs shown on this website and the **[copyright notice](copyright)**"
+        [languages.en.params.socialIcons]
+          email = "/contact"
   [languages.fr]
     languageCode = 'fr'
     languageName = 'Français'
@@ -70,3 +72,6 @@ timeout = "120s"
     weight = 2
       [languages.fr.params]
         description = "La photographie argentique (analogique) est le principal médium utilisé par Jonathan. Ce site web présente principalement des œuvres en noir et blanc. Veuillez lire **[à propos](about)** des reproductions des photographies présentées sur ce site ainsi que la **[notice de droit d'auteur](copyright)**."
+        [languages.fr.params.socialIcons]
+          email = "/fr/contact"
+

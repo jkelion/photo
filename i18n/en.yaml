@@ -1,0 +1,7 @@
+to_label: "To"
+from_label: "From"
+name_label: "Your Name"
+reply_label: "Reply"
+email_label: "Your Email Address"
+msg_label: "Your Message"
+submit_button: "Send Email"

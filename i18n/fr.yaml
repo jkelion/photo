@@ -1,0 +1,7 @@
+to_label: "À"
+from_label: "De"
+name_label: "Votre Prénom et Nom"
+reply_label: "Répondre"
+email_label: "Votre adresse Email"
+msg_label: "Votre message"
+submit_button: "Envoyer Email"
