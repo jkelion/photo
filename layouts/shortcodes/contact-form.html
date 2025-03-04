@@ -10,20 +10,22 @@
       name="visitor_name"
       id="visitor_name"
       placeholder={{ T "name_label" }}
+      required
     />
   </div>
   <div class="field">
     <label for="visitor_email">{{ T "reply_label" }}</label>
     <input
-      type="text"
+      type="email"
       name="visitor_email"
       id="visitor_email"
       placeholder={{ T "email_label" }}
+      required
     />
   </div>
   <div class="field">
     <label for="message">Message</label>
-    <textarea name="message" id="message" placeholder={{ T "msg_label" }}></textarea>
+    <textarea name="message" id="message" placeholder={{ T "msg_label" }} required></textarea>
   </div>
 
   <input type="submit" id="button" value={{ T "submit_button" }} />
