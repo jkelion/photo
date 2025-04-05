@@ -6,7 +6,7 @@ menu:
   footer:
     weight: 2
 ---
-L’ensemble de ce site Web relève des législations française et internationale sur le droit d’auteur et la propriété intellectuelle. Tous les droits de reproduction des œuvres et textes, y compris les documents téléchargeables et les représentations iconographiques et photographiques, sont réservés et requièrent l’autorisation explicite des auteurs respectifs lorsque une reproduction est souhaitée, sauf pour le cas où la reproduction et la représentation sont à titre de copie privée ou à des fins d’enseignement et de recherche et en dehors de toute utilisation lucrative. Ceci, sous réserve que soient indiqués clairement le nom de l’auteur et la source.
+L’ensemble de ce site Web relève des législations française et internationale sur le droit d’auteur et la propriété intellectuelle. Tous les droits de reproduction des œuvres et textes, y compris les documents téléchargeables et les représentations iconographiques et photographiques, sont réservés et requièrent l’autorisation explicite des auteurs respectifs lorsque une reproduction est souhaitée.
 
 En aucun cas, Jonathan Kaplan et ses collaborateurs ne peuvent être tenus pour responsables d’un quelconque dommage direct ou indirect, qu’elle qu’en soit la nature, découlant de l’utilisation du site Web kaplan-consultants.org
 
@@ -16,7 +16,9 @@ Lorsque vous consultez ce site Web, de petits fichiers, appelés «cookies» ou 
 
 **Contenu intégré provenant d'autres sites Web**
 
-Les articles de ce site peuvent inclure du contenu intégré (par exemple des vidéos, des images, des articles, etc.). Le contenu intégré provenant d'autres sites Web se comporte exactement de la même manière que si le visiteur avait visité l'autre site Web. Ces sites Web peuvent collecter des données vous concernant, utiliser des cookies, intégrer un suivi tiers supplémentaire et surveiller votre interaction avec ce contenu intégré, y compris le suivi de votre interaction avec le contenu intégré si vous avez un compte et que vous êtes connecté à ce site Web. Ces cookies peuvent être effacés ou bloqués pas vous à tout moment.
+Les articles de ce site peuvent inclure du contenu intégré (par exemple des vidéos, des images, des articles, etc.). Le contenu intégré provenant d'autres sites Web se comporte exactement de la même manière que si le visiteur avait visité l'autre site Web.
+
+Ces sites Web peuvent collecter des données vous concernant, utiliser des cookies, intégrer un suivi tiers supplémentaire et surveiller votre interaction avec ce contenu intégré, y compris le suivi de votre interaction avec le contenu intégré si vous avez un compte et que vous êtes connecté à ce site Web.
 
 **Protection de données**
 

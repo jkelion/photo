@@ -12,7 +12,7 @@ Jonathan Kaplan cannot be held responsible under any circumstances for whatever 
 
 **Cookies**
 
-When you visit this website, small files called cookies are **not** placed on your computer or mobile device.
+When you visit this website, small files called cookies **are not** placed on your computer or mobile device.
 
 **Embedded content from other websites**
 
