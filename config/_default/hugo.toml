@@ -75,3 +75,6 @@ timeout = "120s"
         [languages.fr.params.socialIcons]
           email = "/fr/contact"
 
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'

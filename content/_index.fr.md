@@ -10,5 +10,8 @@ menus:
   main:
     name: Accueil
     weight: -1
+cascade:
+  build:
+    publishResources: false
 # sub-galleries on list pages are sorted by date and weight (descending)
 ---
