@@ -2,7 +2,7 @@
   {{ range $.Site.Home.AllTranslations }}
     {{ if ne .Lang $.Site.Language.Lang }}
       <li>
-        <a href="{{ .RelPermalink }}">{{ .Language.LanguageName }}</a>
+        <a href="{{ .RelPermalink }}" title="{{ T "change_lang" }}" >{{ .Language.LanguageName }}</a>
       </li>
     {{ end }}
   {{ end }}

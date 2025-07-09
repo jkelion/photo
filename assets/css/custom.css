@@ -1,4 +1,12 @@
 /* custom.css */
+
+.btn-square {
+  border: 1px solid gray;
+  margin-left: .5rem;
+}
+
+/* Contact form */
+
 form {
   display: inline-block;
   /* Form outline */
