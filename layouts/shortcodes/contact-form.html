@@ -28,6 +28,8 @@
     <textarea name="message" id="message" placeholder={{ T "msg_label" }} required></textarea>
   </div>
 
+  <div class="g-recaptcha" data-sitekey="6LceJgMsAAAAAAwzwqFjOCzJLn7Al7NbcyS64r8j"></div>
+
   <input type="submit" id="button" value={{ T "submit_button" }} />
 </form>
 
@@ -36,7 +38,10 @@
   src="https://cdn.jsdelivr.net/npm/@emailjs/browser@4/dist/email.min.js"
 ></script>
 
+<script src="https://www.google.com/recaptcha/api.js" async defer></script>
+
 <script type="text/javascript">
-  emailjs.init("hcwh1BzimepUo_Ba4")
+  emailjs.init("hcwh1BzimepUo_Ba4");
 </script>
 
+<script src="/js/contact.js" defer></script>

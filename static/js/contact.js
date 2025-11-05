@@ -1,22 +1,43 @@
-const btn = document.getElementById("button")
+// contact.js
 
-document.getElementById("form").addEventListener("submit", function (event) {
-  event.preventDefault()
+const btn = document.getElementById("button");
+const form = document.getElementById("form");
 
-  btn.value = "Sending..."
+form.addEventListener("submit", function (event) {
+  event.preventDefault();
 
-  const serviceID = "default_service"
-  const templateID = "template_49nx5qe"
+  btn.value = "Sending...";
 
-  emailjs.sendForm(serviceID, templateID, this).then(
-    () => {
-      btn.value = "Send Email"
-      alert("Sent!")
-    },
-    (err) => {
-      btn.value = "Send Email"
-      alert(JSON.stringify(err))
-    },
-  )
-})
+  // Get the reCAPTCHA token from the widget
+  const recaptchaToken = grecaptcha.getResponse();
+
+  // If user didn’t complete reCAPTCHA
+  if (!recaptchaToken) {
+    alert("Please confirm you’re not a robot.");
+    btn.value = "Send Email";
+    return;
+  }
+
+  const serviceID = "default_service";
+  const templateID = "template_49nx5qe";
+
+  emailjs
+    .sendForm(serviceID, templateID, this, {
+      publicKey: "hcwh1BzimepUo_Ba4", // your EmailJS public key
+      "g-recaptcha-response": grecaptcha.getResponse(), // send token to EmailJS
+    })
+    .then(
+      () => {
+        btn.value = "Send Email";
+        alert("Message sent!");
+        form.reset();
+        grecaptcha.reset(); // reset reCAPTCHA for next submission
+      },
+      (err) => {
+        btn.value = "Send Email";
+        alert("Error: " + JSON.stringify(err));
+        grecaptcha.reset();
+      },
+    );
+});
 
