@@ -1,9 +1,9 @@
 /* custom.css */
 
-.btn-square {
+/* .btn-square {
   border: 1px solid gray;
   margin-left: .5rem;
-}
+} */
 
 /* Contact form */
 
@@ -41,6 +41,7 @@ input[type="submit"] {
   background-color: #4460aa;
   color: #fff;
   border: none;
+  margin-top: 10px; /* to separate from reCaptcha block */
 }
 
 input,
