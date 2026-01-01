@@ -1,6 +1,6 @@
 baseURL = 'https://jonathan-kaplan.eu/'
 
-copyright = "© 2025 Jonathan Kaplan"
+copyright = "© 2026 Jonathan Kaplan"
 defaultContentLanguage = "en"
 disableKinds = ["taxonomy"]
 enableRobotsTXT = true
