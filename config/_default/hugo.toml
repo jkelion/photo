@@ -4,7 +4,7 @@ copyright = "© 2026 Jonathan Kaplan"
 defaultContentLanguage = "en"
 disableKinds = ["taxonomy"]
 enableRobotsTXT = true
-languageCode = "en"
+locale = "en"
 timeZone = "Europe/Paris"
 timeout = "120s"
 
@@ -57,8 +57,8 @@ timeout = "120s"
     
 [languages]
   [languages.en]
-    languageCode = 'en'
-    languageName = 'English'
+    locale = 'en'
+    label = 'English'
     title = 'Jonathan Kaplan Photographer'
     weight = 1
       [languages.en.params]
@@ -66,8 +66,8 @@ timeout = "120s"
         [languages.en.params.socialIcons]
           email = "/contact"
   [languages.fr]
-    languageCode = 'fr'
-    languageName = 'Français'
+    locale = 'fr'
+    label = 'Français'
     title = 'Jonathan Kaplan Photographe'
     weight = 2
       [languages.fr.params]
