@@ -1,7 +1,7 @@
 ---
 description: Les gens dans leur environnement
 menus: "main"
-title: Textures Sociales
+title: Textures sociales
 weight: 1
 params:
   private: false
